@@ -10,3 +10,8 @@
 - Continuous
   - Normal
   - Exponential
+
+### Markov Chains
+
+- Markov property
+- Discrete- v continuous-time chains
