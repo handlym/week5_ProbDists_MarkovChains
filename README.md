@@ -1,1 +1,12 @@
-# week5_ProbDists_MarkovChains
+# Probability Distributions and Markov Chains (Week 5)
+
+### Probability Distributions
+
+- Discrete
+  - Bernoulli
+  - Binomial
+  - Multinomial
+  
+- Continuous
+  - Normal
+  - Exponential
