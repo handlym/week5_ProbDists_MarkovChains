@@ -1,24 +1,26 @@
-# Probability Distributions and Markov Chains (Week 5)
+# Discrete Probability Distributions and Markov Chains (Week 5)
+
+### Discrete Probability Distributions
+
+
+- Bernoulli
+- Binomial
+- Uniform
+- Categorical
+- Multinomial
+- Poisson
+
 
 ### Probability Concepts
 
 - P-values
+- Confidence intervals
 - Bootstrapping
 
-### Probability Distributions
 
-- Discrete
-  - Bernoulli
-  - Binomial
-  - Multinomial
-  - Uniform
-  - Poisson
-  
-- Continuous
-  - Normal
-  - Exponential
-
-### Markov Chains
+### Discrete Markov Chains
 
 - Markov property
-- Discrete- v continuous-time chains
+- Transition matrices
+- Stationarity
+- Reversibility
