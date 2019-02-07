@@ -2,12 +2,13 @@
 
 ### Discrete Probability Distributions
 
-- Discrete
-  - Bernoulli
-  - Binomial
-  - Multinomial
-  - Uniform
-  - Poisson
+
+- Bernoulli
+- Binomial
+- Uniform
+- Categorical
+- Multinomial
+- Poisson
 
 
 ### Probability Concepts
